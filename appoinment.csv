@@ -1,0 +1,6 @@
+Date,Status,Duration,Notes
+2024-11-14 10:00:00,Scheduled,30,Initial consultation
+2024-11-15 14:30:00,Completed,45,Follow-up for check-up
+2024-11-16 09:00:00,Cancelled,9,Patient rescheduled
+2024-11-17 16:00:00,Scheduled,60,Preparation for procedure
+2024-11-18 11:30:00,Scheduled,20,Routine examination
